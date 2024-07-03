@@ -7,7 +7,7 @@ This repository delves into a practical exploration of fundamental numerical met
 **Key Features:**
 
 - **Root Finding Techniques:**
-    - Bisection Method
+    - Bisection Method : https://github.com/SunilInTech/Logic-and-Computer-Oriented-Numerical-Methods-Theory/tree/main/PR-01-Finding%20roots%20of%20equation%20using%20bisection%20method 
     - Regula Falsi (Method of False Position)
     - Secant Method
     - Newton-Raphson Method
